@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
 
-<!--
-**Luana1031/Luana1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando no Alura;
 
-Here are some ideas to get you started:
+Estou me desenvolvendo na linguagem JavaScripit
+Utilizo esse espaço para organizar e compartilhar meu projeto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você entrar em contato comigo: 
+
+00001100296086sp@al.educacao.sp.gov.br
+![]([)](https://media1.tenor.com/m/eZOZrY0myDcAAAAd/pato-girando.gif" alt="a duck with a green beak is sitting on a blue object ."/>![image](https://github.com/user-attachments/assets/e388b8e5-4d21-45b2-ae17-bb5c71bfcf32)
+)
+
